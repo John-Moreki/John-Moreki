@@ -13,3 +13,13 @@ $$ Hi there👋:
   
 - ⚡ Fun fact: Debugging originated from a moth that was stuck in a computer relay, causing a malfunction. 
 -->
+
+TECH EXPERTISE:
+-Python
+-Java
+-Web development
+-Mobile development
+-Greenfield/Brownfield Development
+-Docker
+-CI/CD
+-Agile methodologies
